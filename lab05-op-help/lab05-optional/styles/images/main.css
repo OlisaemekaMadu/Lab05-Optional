@@ -25,3 +25,27 @@ header h1
     padding-top: 0.5em;
     padding-left: 0.5em;
 }
+
+nav ul
+{
+    margin : 0%;
+    padding: 0%;
+}
+
+nav ul li
+{
+    list-style: none;
+    float: left;
+    font-size: 93%;
+}
+
+nav ul li a
+{
+    display: block;
+    font-weight: bold;
+    padding: 0.625em 3.5em;
+    text-decoration: none;
+    color: #000;
+    border-right: 2.5px solid #bababa;
+}
+
